@@ -6498,7 +6498,7 @@ dependencies = [
 [[package]]
 name = "mys-sdk-types"
 version = "0.0.1"
-source = "git+https://github.com/The-Social-Proof-Foundation/mys-rust-sdk?branch=main#6fd9740e72d2f76f6158792689784812b5cd2ff5"
+source = "git+https://github.com/The-Social-Proof-Foundation/mys-rust-sdk?branch=main#7c124439a04b0bda303e344adb3c24d0c9606cd5"
 dependencies = [
  "base64ct",
  "bcs",
@@ -6774,7 +6774,7 @@ dependencies = [
 [[package]]
 name = "mys-transaction-builder"
 version = "0.1.0"
-source = "git+https://github.com/The-Social-Proof-Foundation/mys-rust-sdk?branch=main#6fd9740e72d2f76f6158792689784812b5cd2ff5"
+source = "git+https://github.com/The-Social-Proof-Foundation/mys-rust-sdk?branch=main#7c124439a04b0bda303e344adb3c24d0c9606cd5"
 dependencies = [
  "base64ct",
  "bcs",
